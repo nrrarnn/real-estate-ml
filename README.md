@@ -11,12 +11,13 @@ This is a simple machine learning project that uses a regression model to predic
 - Flask API for serving predictions
 
 ---
+```bash
 📦 real-estate-ml/
-├── app.py # Flask API
-├── model.pkl # Trained ML model
-├── notebook.ipynb # Notebook for EDA and training
-├── requirements.txt # Libraries needed
-└── README.md # You're reading it
+├── app.py                # Flask API
+├── model.pkl             # Trained ML model
+├── notebook.ipynb        # Notebook for EDA and training
+├── requirements.txt      # Libraries needed
+└── README.md             # You're reading it
 
 
 ---
