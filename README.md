@@ -26,13 +26,14 @@ This is a simple machine learning project that uses a regression model to predic
 1. **Install dependencies**:
 ```bash
 pip install -r requirements.txt
+```
 
-2. **Run the API:
+2. **Run the API**:
 ```bash
 python app.py
+```
 
-3. **Make a prediction:
-
+3. **Make a prediction**:
 Send a POST request to http://localhost:5000/predict with JSON body:
 
 
