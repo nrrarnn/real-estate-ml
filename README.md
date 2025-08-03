@@ -11,3 +11,28 @@ This is a simple machine learning project that uses a regression model to predic
 - Flask API for serving predictions
 
 ---
+📦 real-estate-ml/
+├── app.py # Flask API
+├── model.pkl # Trained ML model
+├── notebook.ipynb # Notebook for EDA and training
+├── requirements.txt # Libraries needed
+└── README.md # You're reading it
+
+
+---
+
+## ⚙️ How to Use
+
+1. **Install dependencies**:
+```bash
+pip install -r requirements.txt
+
+2. **Run the API:
+```bash
+python app.py
+
+3. **Make a prediction:
+
+Send a POST request to http://localhost:5000/predict with JSON body:
+
+
