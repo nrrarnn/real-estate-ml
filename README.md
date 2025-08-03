@@ -18,7 +18,7 @@ This is a simple machine learning project that uses a regression model to predic
 ├── notebook.ipynb        # Notebook for EDA and training
 ├── requirements.txt      # Libraries needed
 └── README.md             # You're reading it
-
+```
 
 ---
 
