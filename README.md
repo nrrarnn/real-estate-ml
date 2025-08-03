@@ -13,11 +13,12 @@ This is a simple machine learning project that uses a regression model to predic
 ---
 ```bash
 📦 real-estate-ml/
-├── app.py                # Flask API
-├── model.pkl             # Trained ML model
-├── notebook.ipynb        # Notebook for EDA and training
-├── requirements.txt      # Libraries needed
-└── README.md             # You're reading it
+├── flask_app/
+│   ├── app.py              # Flask API
+│   ├── model.pkl           # Trained ML model
+│   └── requirements.txt    # Libraries needed for the API
+├── notebook.ipynb          # Notebook for EDA and model training
+└── README.md               # You're reading it
 ```
 
 ---
