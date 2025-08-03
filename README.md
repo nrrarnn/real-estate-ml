@@ -36,4 +36,23 @@ python app.py
 3. **Make a prediction**:
 Send a POST request to http://localhost:5000/predict with JSON body:
 
+```bash
+{
+  "features": [1200, 3, 2, 2010, 2.5, 1, 7]
+}
+```
 
+Response:
+```bash
+{
+  "prediction": 375385.0126
+}
+```
+
+**🧠 Tech Stack**
+- Python 🐍
+- Pandas, NumPy
+- Scikit-Learn
+- Flask
+- Joblib
+- Google Colab / Jupyter Notebook
